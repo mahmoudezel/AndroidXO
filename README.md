@@ -1,8 +1,13 @@
 # AndroidXO
-Android XO game
+#### Android XO game
 
 XML Code
 -----------------------------------------------------------------------------------------------------------------------------------
+
+<h4>
+    
+```
+
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -231,8 +236,17 @@ XML Code
     </LinearLayout>
 </LinearLayout>
 
+```
+
+<h4>
+    
 Java Code
 -----------------------------------------------------------------------------------------------------------------------------------
+
+<h4>
+    
+```
+
 package com.example.ezel.xo;
 
 import android.content.res.Configuration;
@@ -672,3 +686,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+    
+```
+
+<h4>
